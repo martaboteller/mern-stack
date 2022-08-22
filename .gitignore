@@ -1,0 +1,10 @@
+#Exclude folders
+node_modules
+/server/node_modules
+
+#Exclude config of db
+server/db.js
+
+#Ignore gitignore
+./gitignore
+client/.gitignore
